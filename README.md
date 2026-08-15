@@ -9,19 +9,19 @@ Preprint available at: https://arxiv.org/abs/2607.29537
 
 Subfolders correspond to analysis that accompanies different figures in the manuscript. 
 
-Folder 'Figure_1' contains scripts to produce Fig. 1 panel (d). All other panels are schematics.
+Folder 'Fig1' contains scripts to produce Fig. 1 panel (d). All other panels are schematics.
 
-Folder 'Figure_2' contains scripts to produce the plots and analysis in Fig. 2
+Folder 'Fig2' contains scripts to produce the plots and analysis in Fig. 2
 
-Folder 'Figure_3' contains scripts to create and analyze the ring attractor model
+Folder 'Fig3' contains scripts to create and analyze the ring attractor model
 
-Folder 'Figure_4' contains structural connectivity data from the Human Connectome Project (HCP) along with code that produces the panels in Fig. 4. 
+Folder 'Fig4' contains structural connectivity data from the Human Connectome Project (HCP) along with code that produces the panels in Fig. 4. 
 
-Folder 'Figure_5' contains scripts that train ANNs on the decision-making tasks examined in our paper. It also contains a script that then calculates the affordance landscape of the recurrent weight matrices over training. 
+Folder 'Fig5' contains scripts that train ANNs on the decision-making tasks examined in our paper. It also contains a script that then calculates the affordance landscape of the recurrent weight matrices over training. 
 
-Folder 'Figure_S6' contains scripts that produce the figures in SI Figure S6 (the cost of producing oscillations on networks)
+Folder 'FigS6' contains scripts that produce the figures in SI Figure S6 (the cost of producing oscillations on networks)
 
-Folder 'Figure_S7' contains scripts that produce the figures in SI Figure S7
+Folder 'FigS7' contains scripts that produce the figures in SI Figure S7
 
 
 ## Citation
