@@ -3,6 +3,8 @@
 
 This repository contains the code and data needed for the analysis in the manuscript "Quantifying the cost of network computations to unpack structure-function relationships in the brain", by Suman S. Kulkarni, Jason Z. Kim, Panagiotis Fotiadis, Fabio Pasqualetti & Dani S. Bassett
 
+Preprint available at: https://arxiv.org/abs/2607.29537
+
 ## Repository structure
 
 Subfolders correspond to analysis that accompanies different figures in the manuscript. 
