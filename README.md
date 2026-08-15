@@ -26,8 +26,7 @@ Folder 'Figure_S7' contains scripts that produce the figures in SI Figure S7
 
 If you use this code, please cite:
 ```
-Kulkarni, S.S., Kim, J.Z., Fotiadis, P., Pasqualetti, F. & Bassett, D.S.
-Quantifying the cost of network computations to unpack structure–function relationships in the brain.
+Suman S. Kulkarni, Jason Z. Kim, Panos Fotiadis, Fabio Pasqualetti and Dani S. Bassett, "Quantifying the cost of network computations to unpack structure–function relationships in the brain." arXiv:2607.29537 (2026).
 ```
 
 ## Contact
