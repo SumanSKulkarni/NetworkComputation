@@ -7,7 +7,7 @@ Preprint available at: https://arxiv.org/abs/2607.29537
 
 ## Repository structure
 
-Subfolders correspond to analysis that accompanies different figures in the manuscript. 
+Subfolders correspond to analysis that accompanies different figures in the manuscript. Note that this repository is still being re-structured.
 
 Folder 'Fig3' contains scripts to create and analyze the ring attractor model
 
@@ -16,6 +16,8 @@ Folder 'Fig4' contains structural connectivity data from the Human Connectome Pr
 Folder 'Fig5' contains scripts to examine ANNs trained on the decision-making tasks examined in our paper. To train the ANNs, we used code from the repository: https://github.com/brain-intelligence-lab/modular-brain-rnn. 
 
 Folder 'FigS6' contains scripts that produce the figures in SI Figure S6 (the cost of producing oscillations on networks)
+
+Folder 'FigS7' contains scripts that produce the figures in SI Figure S7
 
 ## Citation
 
